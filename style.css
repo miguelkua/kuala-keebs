@@ -1,0 +1,16 @@
+html{
+    height: 100%;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, rgb(29, 28, 28), rgb(77, 77, 75));
+    background-repeat: no-repeat;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul li{
+    text-decoration: none;
+}
